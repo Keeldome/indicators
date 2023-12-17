@@ -35,3 +35,5 @@ indicators-*.tar
 npm-debug.log
 /assets/node_modules/
 
+
+indicator.service
